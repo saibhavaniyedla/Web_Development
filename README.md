@@ -1,3 +1,3 @@
 # Web Development 
 
-Develop websites using Frontend and Backend.
+Developing websites using Frontend and Backend.
